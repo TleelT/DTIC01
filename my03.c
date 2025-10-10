@@ -2,7 +2,7 @@
   " " double quote, ' ' single quote, # hash, / slash, \ backslash
    : colon, ; semicolon, ( ) round bracket, [ ] square bracket
    { } curly bracket, < > angle bracket, | pipe, & ampersand
-   ` backtick 
+   ` backtick ^ caret
 */
 #include "stdio.h" //หรือ <stdio.h>
 
